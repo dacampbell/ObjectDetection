@@ -1,0 +1,2 @@
+object_detection:testbot_description:testbot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/duncan/Projects/honors_ws/devel -DCMAKE_INSTALL_PREFIX=/home/duncan/Projects/honors_ws/install -G Unix Makefiles

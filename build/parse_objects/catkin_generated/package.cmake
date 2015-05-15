@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "parse_objects")
+set(parse_objects_MAINTAINER "Duncan Campbell <dac80@zips.uakron.edu>")
+set(parse_objects_DEPRECATED "")
+set(parse_objects_VERSION "0.0.0")
+set(parse_objects_BUILD_DEPENDS "rospy")
+set(parse_objects_RUN_DEPENDS "rospy")
+set(parse_objects_BUILDTOOL_DEPENDS "catkin")

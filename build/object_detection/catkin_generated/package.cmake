@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "object_detection")
+set(object_detection_MAINTAINER "duncan <duncan@todo.todo>")
+set(object_detection_DEPRECATED "")
+set(object_detection_VERSION "0.0.0")
+set(object_detection_BUILD_DEPENDS )
+set(object_detection_RUN_DEPENDS )
+set(object_detection_BUILDTOOL_DEPENDS "catkin")
