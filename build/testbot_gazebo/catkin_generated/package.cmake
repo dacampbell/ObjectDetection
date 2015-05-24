@@ -1,5 +1,5 @@
 set(_CATKIN_CURRENT_PACKAGE "testbot_gazebo")
-set(testbot_gazebo_MAINTAINER "duncan <duncan@todo.todo>")
+set(testbot_gazebo_MAINTAINER "Duncan Campbell <dac80@zips.uakron.edu>")
 set(testbot_gazebo_DEPRECATED "")
 set(testbot_gazebo_VERSION "0.0.0")
 set(testbot_gazebo_BUILD_DEPENDS )
