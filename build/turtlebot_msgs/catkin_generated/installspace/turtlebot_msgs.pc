@@ -1,0 +1,8 @@
+prefix=/home/duncan/Projects/honors_ws/install
+
+Name: turtlebot_msgs
+Description: Description of turtlebot_msgs
+Version: 2.2.1
+Cflags: -I/home/duncan/Projects/honors_ws/install/include
+Libs: -L/home/duncan/Projects/honors_ws/install/lib 
+Requires: std_msgs sensor_msgs std_srvs message_runtime

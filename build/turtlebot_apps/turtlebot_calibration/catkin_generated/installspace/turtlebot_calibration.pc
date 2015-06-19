@@ -1,0 +1,8 @@
+prefix=/home/duncan/Projects/honors_ws/install
+
+Name: turtlebot_calibration
+Description: Description of turtlebot_calibration
+Version: 2.3.3
+Cflags: -I/home/duncan/Projects/honors_ws/install/include
+Libs: -L/home/duncan/Projects/honors_ws/install/lib 
+Requires: std_msgs message_runtime

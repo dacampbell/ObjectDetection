@@ -4,7 +4,4 @@
     <arg name="world_name" value="$(find testbot_gazebo)/worlds/testbot.world"/>
     <!-- more default parameters can be changed here -->
   </include>
-
-  <param name="robot_description" command="$(find xacro)/xacro.py $(find pr2_description)/robots/pr2.urdf.xacro" />
-  <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" args="-param robot_description -urdf -model pr2" />
 </launch>

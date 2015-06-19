@@ -1,0 +1,8 @@
+prefix=/home/duncan/Projects/honors_ws/devel
+
+Name: turtlebot_rapps
+Description: Description of turtlebot_rapps
+Version: 2.3.3
+Cflags: 
+Libs: -L/home/duncan/Projects/honors_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/duncan/Projects/honors_ws/devel
+
+Name: turtlebot_stdr
+Description: Description of turtlebot_stdr
+Version: 2.2.0
+Cflags: 
+Libs: -L/home/duncan/Projects/honors_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/duncan/Projects/honors_ws/install
+
+Name: create_node
+Description: Description of create_node
+Version: 2.3.0
+Cflags: -I/home/duncan/Projects/honors_ws/install/include
+Libs: -L/home/duncan/Projects/honors_ws/install/lib 
+Requires: diagnostic_msgs geometry_msgs message_runtime nav_msgs

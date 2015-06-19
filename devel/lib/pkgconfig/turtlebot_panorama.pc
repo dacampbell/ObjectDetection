@@ -1,0 +1,8 @@
+prefix=/home/duncan/Projects/honors_ws/devel
+
+Name: turtlebot_panorama
+Description: Description of turtlebot_panorama
+Version: 2.3.3
+Cflags: -I/home/duncan/Projects/honors_ws/src/turtlebot_apps/turtlebot_panorama/include -I/usr/include -I/usr/include/eigen3
+Libs: -L/home/duncan/Projects/honors_ws/devel/lib -l:/usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: roscpp actionlib std_msgs std_srvs nav_msgs sensor_msgs geometry_msgs turtlebot_msgs image_transport pano_ros

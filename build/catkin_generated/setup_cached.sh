@@ -5,16 +5,11 @@
 # it emulates the modifications of the setup script without recurring computations
 
 # new environment variables
-export CATKIN_TEST_RESULTS_DIR="/home/duncan/Projects/honors_ws/build/test_results"
-export ROS_TEST_RESULTS_DIR="/home/duncan/Projects/honors_ws/build/test_results"
+export TURTLEBOT_STAGE_MAP_FILE="/home/duncan/Projects/honors_ws/src/turtlebot_simulator/turtlebot_stage/maps/maze.yaml"
+export TURTLEBOT_STAGE_WORLD_FILE="/home/duncan/Projects/honors_ws/src/turtlebot_simulator/turtlebot_stage/maps/stage/maze.world"
+export TURTLEBOT_STDR_MAP_FILE="/home/duncan/Projects/honors_ws/src/turtlebot_simulator/turtlebot_stdr/maps/sparse_obstacles.yaml"
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/duncan/Projects/honors_ws/devel:$CMAKE_PREFIX_PATH"
-export CPATH="/home/duncan/Projects/honors_ws/devel/include:$CPATH"
-export LD_LIBRARY_PATH="/home/duncan/Projects/honors_ws/devel/lib:/home/duncan/Projects/honors_ws/devel/lib/x86_64-linux-gnu:/opt/ros/indigo/lib/x86_64-linux-gnu:/opt/ros/indigo/lib"
-export PATH="/home/duncan/Projects/honors_ws/devel/bin:$PATH"
-export PKG_CONFIG_PATH="/home/duncan/Projects/honors_ws/devel/lib/pkgconfig:/home/duncan/Projects/honors_ws/devel/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/pkgconfig"
+export LD_LIBRARY_PATH="/home/duncan/Projects/honors_ws/devel/lib/x86_64-linux-gnu:/opt/ros/indigo/lib/x86_64-linux-gnu:/home/duncan/Projects/honors_ws/devel/lib:/opt/ros/indigo/lib"
+export PKG_CONFIG_PATH="/home/duncan/Projects/honors_ws/devel/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/x86_64-linux-gnu/pkgconfig:/home/duncan/Projects/honors_ws/devel/lib/pkgconfig:/opt/ros/indigo/lib/pkgconfig"
 export PWD="/home/duncan/Projects/honors_ws/build"
-export PYTHONPATH="/home/duncan/Projects/honors_ws/devel/lib/python2.7/dist-packages:$PYTHONPATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/duncan/Projects/honors_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/duncan/Projects/honors_ws/src:$ROS_PACKAGE_PATH"

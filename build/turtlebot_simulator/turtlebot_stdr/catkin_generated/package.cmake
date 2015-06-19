@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_stdr")
+set(turtlebot_stdr_MAINTAINER "Mehdi Tlili <mehdi.tlili@gmail.com>")
+set(turtlebot_stdr_DEPRECATED "")
+set(turtlebot_stdr_VERSION "2.2.0")
+set(turtlebot_stdr_BUILD_DEPENDS )
+set(turtlebot_stdr_RUN_DEPENDS "stdr_gui" "stdr_robot" "stdr_server" "stdr_resources" "navigation" "turtlebot_bringup" "yocs_virtual_sensor" "yocs_velocity_smoother")
+set(turtlebot_stdr_BUILDTOOL_DEPENDS "catkin")
