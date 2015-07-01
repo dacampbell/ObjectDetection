@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+getDistance	/home/duncan/Projects/objectDetection/objectDetect.py	/^def getDistance(pointA, pointB):$/;"	function	line:6
+findClosestPoints	/home/duncan/Projects/objectDetection/objectDetect.py	/^def findClosestPoints(point, pointList):$/;"	function	line:10
+unionClosestPoints	/home/duncan/Projects/objectDetection/objectDetect.py	/^def unionClosestPoints(setNum, setPoints, pointMap):$/;"	function	line:19
+getSets	/home/duncan/Projects/objectDetection/objectDetect.py	/^def getSets(pointList):$/;"	function	line:32
+getPointSets	/home/duncan/Projects/objectDetection/objectDetect.py	/^def getPointSets(numSets, pointList, pointMap):$/;"	function	line:44
+pointList	/home/duncan/Projects/objectDetection/objectDetect.py	/^pointList = list()$/;"	variable	line:56
+pointSets	/home/duncan/Projects/objectDetection/objectDetect.py	/^pointSets = getPointSets(num, pointList, sets)$/;"	variable	line:73
+polygons	/home/duncan/Projects/objectDetection/objectDetect.py	/^polygons = list()$/;"	variable	line:75
